@@ -1,0 +1,290 @@
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.figlist
+*.makefile
+*.fls
+*.log
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# LaTeX intermediate files
+*.dvi
+*.xdv
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc[0-9]*
+*.slf
+*.slt
+*.stc
+*.stc[0-9]*
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# LaTeX Beamer
+*.snm
+*.vrb
+
+# LaTeX endfloat
+*.ttt
+*.fff
+
+# LaTeX BibTeX
+*.bib.bak
+*.bib.sav
+
+# LaTeX morewrites
+*.mw
+
+# LaTeX acronym
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.lzo
+*.lzs
+
+# LaTeX hyperref
+*.run.xml
+
+# LaTeX knitr
+*-concordance.tex
+# TODO comment the next line if you want to keep your tikz graphics files
+*.figlist
+*.makefile
+*.figlist
+*.fls
+*.fdb_latexmk
+
+# LaTeX TikZ & PGF
+*.auxlock
+
+# LaTeX glossaries
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+
+# LaTeX splitindex
+*.idx
+*.ilg
+*.ind
+
+# LaTeX minitoc
+*.maf
+*.mlf
+*.mlt
+*.mtc[0-9]*
+*.slf[0-9]*
+*.slt[0-9]*
+*.stc[0-9]*
+
+# LaTeX nomencl
+*.nlg
+*.nlo
+*.nls
+
+# LaTeX pax
+*.pax
+
+# LaTeX latexmk
+*.fdb_latexmk
+*.fls
+
+# LaTeX achemso
+acs-*.bib
+
+# LaTeX algorithmic
+*.alg
+*.loa
+
+# LaTeX avm
+*.avm
+
+# LaTeX beamer
+*.nav
+*.pre
+*.snm
+*.vrb
+
+# LaTeX changes
+*.soc
+
+# LaTeX cprotect
+*.cpt
+
+# LaTeX elsarticle
+*.spl
+
+# LaTeX endnotes
+*.ent
+
+# LaTeX fixme
+*.lox
+
+# LaTeX feynmf/feynmp
+*.mf
+*.mp
+*.t[1-9]
+*.t[1-9][0-9]
+*.tfm
+
+# LaTeX standalone
+*.sta
+
+# LaTeX generated if empty
+[^*]*-blx.aux
+[^*]*-blx.bib
+
+# LaTeX biblatex
+*.bcf
+*.run.xml
+
+# LaTeX todonotes
+*.tdo
+
+# LaTeX xindy
+*.xdy
+
+# LaTeX xypic precompiled
+*.xyc
+
+# LaTeX endfloat
+*.ttt
+*.fff
+
+# LaTeX sagetex
+*.sagetex.sage
+*.sagetex.py
+*.sagetex.scmd
+
+# LaTeX pythontex
+*.pytxcode
+pythontex-files-*/
+
+# LaTeX thmtools
+*.loe
+
+# LaTeX TikZ & PGF
+*.auxlock
+
+# LaTeX morewrites
+*.mw
+
+# LaTeX newpax
+*.newpax
+
+# LaTeX sympy
+*.upa
+*.upb
+
+# LaTeX pdfcomment
+*.upa
+*.upb
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux files
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Keep the PDF output (comment the next line if you don't want to version the PDF)
+# resume.pdf
+
+# Font cache
+.fdb_latexmk
+.fls
+
+# Custom: Keep only source files and final PDF
+# Ignore all build artifacts but keep the main PDF output
